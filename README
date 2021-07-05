@@ -1,0 +1,10 @@
+Commands are surrounded in ` marks. Do not include a ` mark in any of the commands.
+- Type `make` to compile the programs.
+
+To use the server:
+    - Type `java Server <conf>`, where `<conf>` is the name of the config file you want to use.
+    - Press Control+C to close the server.
+
+To run the client:
+    - Type `java Client <conf>`, where `<conf>` is the name of the config file you want to use.
+    - Follow the instructions onscreen.
